@@ -7,10 +7,10 @@
 </head>
 <body>
     <?php
-        $numero = 17;
-        $nome = "alex";
-        echo "$nome tem $numero anos";
-
+        $numero1 = 3;
+        $numero2 = 2;
+        $s = $numero1 + $numero2;
+        echo $s
     ?>
 </body>
 </html>
